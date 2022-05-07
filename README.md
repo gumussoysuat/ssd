@@ -13,14 +13,12 @@ This repo includes **two executable notebooks, benchmarks_model_reduction.mlx an
 Add [src](src) directory to the MATLAB's path.
 
 ## Getting started
-The executable notebook [introduction.mlx](introduction.mlx) overviews the SSD functionalities.
+Check out the executable notebook [introduction.mlx](introduction.mlx) for the overview of the SSD functionalities.
 
 ## Benchmarks
 
 ### Model reduction
 The executable notebook [benchmarks_model_reduction.mlx](benchmarks_model_reduction.mlx) collects five benchmark problems.
-
-
 
 ### H2 norm computation
 The executable notebook [benchmarks_h2norm.mlx](benchmarks_h2norm.mlx) collects six benchmark problems.
