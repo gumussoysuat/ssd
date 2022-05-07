@@ -22,14 +22,14 @@ The executable notebook [benchmarks_model_reduction.mlx](benchmarks_model_reduct
 
 ![Model_Reduction](snapshots/table_model_reduction.png)
 
-A snapshot of the executable notebooks can be seen below
+A snapshot of the executable notebook can be seen below
 ![Model_Reduction snapshot](snapshots/heatedrodexample.png)
 
 ### H2 norm computation
 The executable notebook [benchmarks_h2norm.mlx](benchmarks_h2norm.mlx) collects six benchmark problems.
 ![H2norm](snapshots/table_h2norm.png)
 
-A snapshot of the executable notebooks can be seen below
+A snapshot of the executable notebook can be seen below
 ![H2norm snapshot](snapshots/hotshowerexample.png)
 
 ## License
