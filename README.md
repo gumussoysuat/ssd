@@ -20,5 +20,8 @@ Check out the executable notebook [introduction.mlx](introduction.mlx) for the o
 ### Model reduction
 The executable notebook [benchmarks_model_reduction.mlx](benchmarks_model_reduction.mlx) collects five benchmark problems.
 
+![Boxing](snapshots/table_model_reduction.png)
+
 ### H2 norm computation
 The executable notebook [benchmarks_h2norm.mlx](benchmarks_h2norm.mlx) collects six benchmark problems.
+![Boxing](snapshots/table_h2norm.png)
