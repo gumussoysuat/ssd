@@ -12,3 +12,5 @@ Add [src](src) directory to the MATLAB's path.
 
 ## Getting started
 The executable notebook [introduction.mlx](introduction.mlx) overviews the SSD functionalities.
+
+## Benchmarks
