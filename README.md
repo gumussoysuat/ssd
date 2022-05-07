@@ -8,3 +8,6 @@ SSD is a MATLAB package providing the following features and functions for retar
 In addition, this repo includes **two executable notebooks, benchmarks_model_reduction.mlx and benchmarks_h2norm.mlx** collecting benchmark problems for model reduction and H2 norm computation for delay systems. 
 
 ## Installation
+Add src [src](src)  directory to the MATLAB's path.
+
+## Getting started
