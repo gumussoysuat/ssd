@@ -20,8 +20,29 @@ Check out the executable notebook [introduction.mlx](introduction.mlx) for the o
 ### Model reduction
 The executable notebook [benchmarks_model_reduction.mlx](benchmarks_model_reduction.mlx) collects five benchmark problems.
 
-![Boxing](snapshots/table_model_reduction.png)
+![Model_Reduction](snapshots/table_model_reduction.png)
 
 ### H2 norm computation
 The executable notebook [benchmarks_h2norm.mlx](benchmarks_h2norm.mlx) collects six benchmark problems.
-![Boxing](snapshots/table_h2norm.png)
+![H2norm](snapshots/table_h2norm.png)
+
+## License
+
+[MIT License](LICENSE).
+
+## Citations
+
+If you use SSD or any of the benchmarks, please cite our paper:
+
+```
+@article{gumussoy:22:ifac_tds,
+  title={SSD - Software for Systems with Delays: Reproducable Examples and Benchmarks on Model Reduction and H2 Norm Computation},
+  author={Suat Gumussoy},
+  journal={submitted to Joint IFAC Conference: SSSC-TDS-LPVS, Montreal, Canada, 2022},
+  volume={},
+  number={},
+  pages={},
+  year={},
+  publisher={}
+}
+```
