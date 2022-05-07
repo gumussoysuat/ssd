@@ -5,15 +5,14 @@ SSD is a MATLAB package providing the following features and functions for retar
 - **Balanced Reduction:** gram, balreal, balred (standard and frequency-limited).
 - **H2 norm computation:** h2norm.
 
-In addition, 
-
-This repo includes **two executable notebooks, benchmarks_model_reduction.mlx and benchmarks_h2norm.mlx** collecting benchmark problems for model reduction and H2 norm computation for delay systems. 
+In addition, this repo includes **one executable notebook, introduction.mlx** and **two executable notebooks, benchmarks_model_reduction.mlx and benchmarks_h2norm.mlx** collecting benchmark problems for model reduction and H2 norm computation for delay systems. 
 
 ## Installation
 Add [src](src) directory to the MATLAB's path.
 
 ## Getting started
-Check out the executable notebook [introduction.mlx](introduction.mlx) for the overview of the SSD functionalities.
+Check out the executable notebook [introduction.mlx](introduction.mlx) for the overview of the SSD functionalities. A snapshot of the executable notebook can be seen below
+![Introduction snapshot](snapshots/introduction.png)
 
 ## Benchmarks
 
