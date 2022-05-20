@@ -1,11 +1,13 @@
-# Software for Delay Systems (SSD) - Coming soon
+# Software for Delay Systems (SSD)
 
 SSD is a MATLAB package providing the following features and functions for retarded time delay systems:
 - **Time and frequency domain visualizations:** step, bode, bodemag, sigma, nyquist.
 - **Balanced Reduction:** gram, balreal, balred (standard and frequency-limited).
 - **H2 norm computation:** h2norm.
 
-In addition, this repo includes **one executable notebook, introduction.mlx** and **two executable notebooks, benchmarks_model_reduction.mlx and benchmarks_h2norm.mlx** collecting benchmark problems for model reduction and H2 norm computation of delay systems. 
+This repo includes three executable notebooks
+- **introduction.mlx** overviews the features of SSD and 
+- **benchmarks_model_reduction.mlx and benchmarks_h2norm.mlx** collects benchmark problems for model reduction and H2 norm computation of delay systems and uses SSD if applicable.
 
 ## Installation
 Add [src](src) directory to the MATLAB's path.
@@ -22,14 +24,17 @@ The executable notebook [benchmarks_model_reduction.mlx](benchmarks_model_reduct
 
 ![Model_Reduction](snapshots/table_model_reduction.png)
 
-A snapshot of the executable notebook can be seen below
+A snapshot of the executable notebook can be seen below.
+
 ![Model_Reduction snapshot](snapshots/heatedrodexample.png)
 
 ### H2 norm computation
 The executable notebook [benchmarks_h2norm.mlx](benchmarks_h2norm.mlx) collects six benchmark problems.
+
 ![H2norm](snapshots/table_h2norm.png)
 
-A snapshot of the executable notebook can be seen below
+A snapshot of the executable notebook can be seen below.
+
 ![H2norm snapshot](snapshots/hotshowerexample.png)
 
 ## License
@@ -38,7 +43,7 @@ A snapshot of the executable notebook can be seen below
 
 ## Citations
 
-If you use SSD or any of the benchmarks, please cite our paper:
+If you use SSD or benefit from any benchmarks code, please cite our paper:
 
 ```
 @article{gumussoy:22:ifac_tds,
