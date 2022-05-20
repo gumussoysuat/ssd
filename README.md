@@ -1,11 +1,14 @@
-# Software for Delay Systems (SSD) - Coming soon
+# Software for Delay Systems (SSD)
 
 SSD is a MATLAB package providing the following features and functions for retarded time delay systems:
 - **Time and frequency domain visualizations:** step, bode, bodemag, sigma, nyquist.
 - **Balanced Reduction:** gram, balreal, balred (standard and frequency-limited).
 - **H2 norm computation:** h2norm.
 
-In addition, this repo includes **one executable notebook, introduction.mlx** and **two executable notebooks, benchmarks_model_reduction.mlx and benchmarks_h2norm.mlx** collecting benchmark problems for model reduction and H2 norm computation of delay systems. 
+This repo includes
+- **one executable notebook, introduction.mlx** and 
+- **two executable notebooks, benchmarks_model_reduction.mlx and benchmarks_h2norm.mlx** 
+collecting benchmark problems for model reduction and H2 norm computation of delay systems. 
 
 ## Installation
 Add [src](src) directory to the MATLAB's path.
