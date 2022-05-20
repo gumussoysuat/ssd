@@ -31,7 +31,7 @@ A snapshot of the executable notebook can be seen below.
 The executable notebook [benchmarks_h2norm.mlx](benchmarks_h2norm.mlx) collects six benchmark problems.
 ![H2norm](snapshots/table_h2norm.png)
 
-A snapshot of the executable notebook can be seen below
+A snapshot of the executable notebook can be seen below.
 ![H2norm snapshot](snapshots/hotshowerexample.png)
 
 ## License
