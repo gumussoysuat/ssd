@@ -43,7 +43,7 @@ A snapshot of the executable notebook can be seen below.
 
 ## Citations
 
-If you use SSD or any of the benchmarks, please cite our paper:
+If you use SSD or any code from the benchmarks, please cite our paper:
 
 ```
 @article{gumussoy:22:ifac_tds,
