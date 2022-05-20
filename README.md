@@ -24,7 +24,7 @@ The executable notebook [benchmarks_model_reduction.mlx](benchmarks_model_reduct
 
 ![Model_Reduction](snapshots/table_model_reduction.png)
 
-A snapshot of the executable notebook can be seen below
+A snapshot of the executable notebook can be seen below.
 ![Model_Reduction snapshot](snapshots/heatedrodexample.png)
 
 ### H2 norm computation
