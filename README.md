@@ -9,6 +9,9 @@ This repo includes three executable notebooks
 - **introduction.mlx** overviews the features of SSD and 
 - **benchmarks_model_reduction.mlx and benchmarks_h2norm.mlx** collects benchmark problems for model reduction and H2 norm computation of delay systems and uses SSD if applicable.
 
+## Requirements
+SSD requires MATLAB R2020b or newer.
+
 ## Installation
 Add [src](src) directory to the MATLAB's path.
 
@@ -49,7 +52,7 @@ If you use SSD or benefit from any benchmarks code, please cite our paper:
 @article{gumussoy:22:ifac_tds,
   title={SSD - Software for Systems with Delays: Reproducable Examples and Benchmarks on Model Reduction and H2 Norm Computation},
   author={Suat Gumussoy},
-  journal={submitted to Joint IFAC Conference: SSSC-TDS-LPVS, Montreal, Canada, 2022},
+  journal={accepted to Joint IFAC Conference: SSSC-TDS-LPVS, Montreal, Canada, 2022},
   volume={},
   number={},
   pages={},
