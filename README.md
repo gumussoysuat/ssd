@@ -52,11 +52,10 @@ If you use SSD or benefit from any benchmarks code, please cite our paper:
 @article{gumussoy:22:ifac_tds,
   title={SSD - Software for Systems with Delays: Reproducable Examples and Benchmarks on Model Reduction and H2 Norm Computation},
   author={Suat Gumussoy},
-  journal={accepted to Joint IFAC Conference: SSSC-TDS-LPVS, Montreal, Canada, 2022},
-  volume={},
-  number={},
-  pages={},
-  year={},
-  publisher={}
+  journal={IFAC-PapersOnLine},
+  volume={55},
+  number={36},
+  pages={258-263},
+  year={2022}
 }
 ```
